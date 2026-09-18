@@ -1,0 +1,30 @@
+# E-Commerce Sales, Customer Segmentation & Purchase Prediction
+# Python Requirements
+
+# Core Data Science
+pandas>=2.2.2
+numpy>=1.26.4
+scikit-learn>=1.4.2
+xgboost>=2.0.3
+joblib>=1.4.2
+
+# Visualisation (notebook)
+matplotlib>=3.8.4
+seaborn>=0.13.2
+
+# Web Framework — Backend
+flask>=3.0.3
+flask-cors>=4.0.0
+
+# Web Framework — Frontend
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.4
+nbformat>=5.10.4
+
+# Utilities
+requests>=2.32.3
+python-dotenv>=1.0.1
